@@ -11,3 +11,9 @@ De R$ 3.751,06 até R$ 4.664,68 	     |     22,5
 Acima de R$ 4.664,68 	             |     27,5                
 _________________________________________________________
 
+
+
+DIA 05-09-2023  
+me propondo a criar a parte FrontEnd deste projeto 
+
+projeto front end finalizado
